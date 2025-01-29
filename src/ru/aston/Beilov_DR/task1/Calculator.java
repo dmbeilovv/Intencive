@@ -1,7 +1,7 @@
 package ru.aston.Beilov_DR.task1;
 
-public class q1_Calculator {
-    public q1_Calculator() {}
+public class Calculator {
+    public Calculator() {}
 
 
     public int summarize(int a, int b) {
@@ -44,17 +44,4 @@ public class q1_Calculator {
     public long divide(long a, long b) {
         return a / b;
     }
-
-
-    public static void main(String[] args) {
-        q1_Calculator c = new q1_Calculator();
-        int i = 5;
-        double d = 3.14159;
-        long l = 666666666L;
-
-        System.out.println(c.summarize(i, i));
-        System.out.println(c.divide(d, d));
-        System.out.println(c.multiply(l, l));
-    }
-
 }
