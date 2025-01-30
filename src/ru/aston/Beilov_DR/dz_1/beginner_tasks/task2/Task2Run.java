@@ -1,4 +1,4 @@
-package ru.aston.Beilov_DR.task2;
+package ru.aston.Beilov_DR.dz_1.beginner_tasks.task2;
 
 public class Task2Run {
     public static void main(String[] args) {

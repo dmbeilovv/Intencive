@@ -1,4 +1,4 @@
-package ru.aston.Beilov_DR.task3;
+package ru.aston.Beilov_DR.dz_1.beginner_tasks.task3;
 
 class Study {
 

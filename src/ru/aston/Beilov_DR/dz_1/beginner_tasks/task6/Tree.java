@@ -1,4 +1,4 @@
-package ru.aston.Beilov_DR.task6;
+package ru.aston.Beilov_DR.dz_1.beginner_tasks.task6;
 
 public class Tree {
 

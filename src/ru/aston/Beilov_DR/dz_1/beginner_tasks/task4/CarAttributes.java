@@ -1,4 +1,4 @@
-package ru.aston.Beilov_DR.task4;
+package ru.aston.Beilov_DR.dz_1.beginner_tasks.task4;
 
 public class CarAttributes {
     private double weight;
