@@ -15,7 +15,7 @@ public class User {
 
 
     public String getName() {
-        return surname;
+        return name;
     }
     public String getSurname() {
         return surname;
@@ -36,7 +36,7 @@ public class User {
 
     @Override
     public int hashCode() {
-        return super.hashCode();
+        return Objects.hash(age, name, surname);
     }
 
     @Override
